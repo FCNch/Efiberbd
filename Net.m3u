@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58MS5g.jpg" group-title="LIVE SPORTS",Sports LIVE 1
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58MS5g.jpg" group-title="LIVE SPORTS",IPLLive 01
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_01_720&user=748e920475c8167decb7565f975b6468
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58ME6R.png" group-title="LIVE SPORTS",Sports LIVE 2
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58ME6R.png" group-title="LIVE SPORTS",IPLLive 02
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_02_720&user=748e920475c8167decb7565f975b6468
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6PkF.png" group-title="LIVE SPORTS", IPLLiveSD
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6PkF.png" group-title="LIVE SPORTS",IPLLive SD
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6ini.jpg" group-title="LIVE SPORTS", IPLLiveHD
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6ini.jpg" group-title="LIVE SPORTS",IPLLive HD
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CgqSr4p.png" group-title="LIVE SPORTS",StarSports-1HD Hin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CgqSr4p.png" group-title="LIVE SPORTS",IPLLive FHD
 http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA",BTV World
@@ -66,7 +66,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/royaltv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/doyeltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BD BANGLA",MOVIE BANGLA [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58Lm1P.png" group-title="BD BANGLA",NAN IPTV [BD]
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58Lm1P.jpg" group-title="BD BANGLA",NAN IPTV [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JbM3.jpg" group-title="BD BANGLA",NRB IPTV [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/nrb-eu.stream/chunks.m3u8
@@ -91,9 +91,9 @@ https://bdcast-live2.b-cdn.net/jago/1/live-orgin/canbanglatv.stream/chunks.m3u8
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58ixRj.jpg" group-title="BD BANGLA",JONMOBHUMI TV
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58KYg4.jpg" group-title="BD BANGLA".TIME TV BD
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58KYg4.jpg" group-title="BD BANGLA",TIME TV US
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/timetvusa.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YtW4.jpg" group-title="BD BANGLA",ION TV UK 
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YtW4.jpg" group-title="BD BANGLA",ION TV UK
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/iontvuk.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58Y5x3.jpg" group-title="BD BANGLA",TV ONE UK 
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/tvoneuksni.stream/chunks.m3u8
@@ -108,7 +108,7 @@ http://nandansyst.com/hls/nandan.m3u8
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58iPuS.jpg" group-title="BD BANGLA",I IPTV [BD]
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/5Xs60o.png" group-title="BD BANGLA",JJATV
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/5Xs60o.png" group-title="BD BANGLA",JA TV
 https://live.tvdhaka.com:30443/globalbangla/jatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/5XsSxS.jpg" group-title="BD BANGLA",Teliflim
 https://live.tvdhaka.com:30443/live/telefilm/chunks.m3u8
@@ -218,7 +218,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music",9X Jalwaa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music", 9XJalwaa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa/index.m3u8
 
  #EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png",ZTHE END
