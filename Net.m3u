@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58MS5g.jpg" group-title="Live Sports",Sports LIVE 1
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58MS5g.jpg" group-title="LIVE SPORTS",Sports LIVE 1
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_01_720&user=748e920475c8167decb7565f975b6468
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58ME6R.png" group-title="Live Sports",Sports LIVE 2
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58ME6R.png" group-title="LIVE SPORTS",Sports LIVE 2
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_02_720&user=748e920475c8167decb7565f975b6468
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6PkF.png" group-title="LIVE-SPORTS", IPLLiveSD
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6PkF.png" group-title="LIVE SPORTS", IPLLiveSD
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6ini.jpg" group-title="LIVE-SPORTS", IPLLiveHD
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6ini.jpg" group-title="LIVE SPORTS", IPLLiveHD
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CgqSr4p.png" group-title="LIVE SPORTS",StarSports-1HD Hin
 http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
@@ -133,7 +133,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath
-http://nbn.chowdhury-shaheb.com/live/nb-sonyaath/chunks.m3u8
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQdw1st.png" group-title="Indian Bangla",Star Jalsha HD
 http://nbn.chowdhury-shaheb.com/live/nb-starjalsha/chunks.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/sVK7liT.png",ZeeBangla HD
