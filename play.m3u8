@@ -6,6 +6,13 @@ http://tv.gadgetvaly.com:8880/live/kazimaruf.jp/bdiptv365/39.m3u8
 https://bitly.net/3jTEWKX
 #EXTINF:-1 tvg-logo="https://imgur.com/95LLCWW.png" group-title="LIVE SPORTS",IN: Live Sports HD
 https://bitly.net/3K0TwLt
+#EXTINF:-1 tvg-logo="https://imgur.com/TZDDTS9.png" group-title="LIVE SPORTS",IN: Live Sports HD
+https://cutt.ly/Tv2-nx
+#EXTINF:-1 tvg-logo="https://imgur.com/PhIvHMA.png" group-title="LIVE SPORTS",IN: Live Sports HD
+https://cutt.ly/fcn-Sports1
+#EXTINF:-1 tvg-logo="https://imgur.com/TZDDTS9.png" group-title="LIVE SPORTS",IN: Live Sports HD
+https://cutt.ly/fcn-Sports2
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RqJGZfm.png" group-title="Indian Bangla",Sony Aath
 https://bitly.net/3vzUQzu
@@ -49,11 +56,10 @@ https://bitly.net/387zGR7
 
 #EXTINF:-1 tvg-logo="https://imgur.com/oTt7D3K.png" group-title="ENTERTAINMENT",IN: SONY HD 
 https://bitly.net/3JXT2Wl
-#EXTINF:-1 tvg-logo="https://imgur.com/Kb3A6Ke.png" group-title="ENTERTAINMENT",IN: SonyWah
+#EXTINF:-1 tvg-logo="https://imgur.com/Kb3A6Ke.png" group-title="ENTERTAINMENT",IN: Sony Wah
 https://bitly.net/3L1UhVP
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="BOLLYWOOD",IN: Sony Max HD
 https://bitly.net/3OoEW3t
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7Impq13.png" group-title="GAANA",IN: E24 Music
 https://bitly.net/3uX5zVO
@@ -61,46 +67,21 @@ https://bitly.net/3uX5zVO
 https://bitly.net/3uYHLAV
 #EXTINF:-1 tvg-logo="https://imgur.com/Ll7AZ3P.png" group-title="GAANA",IN: Artist Aloud
 https://bitly.net/3uYHVZ3
-#EXTINF:-1 tvg-logo="https://imgur.com/cRu5FNO.png" group-title="GAANA",IN: DiL Se
+#EXTINF:-1 tvg-logo="https://imgur.com/mK7h8O1.png" group-title="GAANA",IN: DiL Se
 https://bitly.net/3Mi64PQ
 #EXTINF:-1 tvg-logo="https://imgur.com/hIbJUum.png" group-title="GAANA",IN: Kadak Hits
 https://bitly.net/3Mh5SR3
 #EXTINF:-1 tvg-logo="https://imgur.com/z1KQxTk.png" group-title="GAANA",IN: Pop Pataka
 https://bitly.net/3MfoX5X
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6PkF.png" group-title="LIVE-SPORTS", IPLLiveSD
-https://cutt.ly/Fcn-IPLLiveSD
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6ini.png" group-title="LIVE-SPORTS", IPLLiveHD
-https://cutt.ly/Fcn-IPLLiveHD
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/5X6ini.png" group-title="LIVE-SPORTS", IPLLiveHD
-https://cutt.ly/Fcn-TSports
-#EXTINF:-1 tvg-logo="https://imgur.com/TZDDTS9.png" group-title="LIVE SPORTS",IN: Live Sports HD
-https://cutt.ly/Tv2-nx
-
-#EXTINF:-1 tvg-logo="https://imgur.com/PhIvHMA.png" group-title="LIVE SPORTS",IN: Live Sports HD
-https://cutt.ly/fcn-Sports1
-#EXTINF:-1 tvg-logo="https://imgur.com/TZDDTS9.png" group-title="LIVE SPORTS",IN: Live Sports HD
-https://cutt.ly/fcn-Sports2
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/RqJGZfm.png" group-title="Indian Bangla",Sony Aath
-https://cutt.ly/Fcn-SonyAath
-#EXTINF:-1 tvg-logo="https://imgur.com/sVK7liT.png" group-title="Indian Bangla",ZeeBangla HD
-https://cutt.ly/Fcn-ZeeBangla
+#EXTINF:-1 tvg-logo="https://imgur.com/e5Ldh7e.png" group-title="Indian Bangla",Zee Bangla
+http://12.1.1.1:8082/ZeeBanglaHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla",Star Jalsha HD
+http://12.1.1.1:8082/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla",Colors Bangla HD
-https://cutt.ly/Fcn-ColorsBanglaHD
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi",Sony HD
-https://cdn.rangdhanu.live/SonyTVHD/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/7Ggsx7o.png" group-title="Hindi",SonySab HD
-https://cutt.ly/Fcn-SonySAB
-#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi",Colors HD
-https://cutt.ly/Fcn-Colors
-
-#EXTINF:-1 tvg-logo="https://imgur.com/pZASk2s.png" group-title="Hindi",SonyMax HD
-https://cutt.ly/Fcn-SonyMaxHD
-
+http://12.1.1.1:8082/colorsbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla",Jalsha Movies HD
+http://12.1.1.1:8082/Jalshamovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7cLcHQ9.png" group-title="ENTERTAINMENT",UK: And TV
 https://cutt.ly/fcn-AndUK
@@ -113,21 +94,13 @@ https://cutt.ly/fcn-StarPlus
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qp6Hy4N.png" group-title="BOLLYWOOD",IN: And Pictures HD
 https://cutt.ly/fcn-AndPicturesHD
-#EXTINF:-1 tvg-logo="https://imgur.com/XRIrle0.png" group-title="BOLLYWOOD",IN: BBOPLAY
+#EXTINF:-1 tvg-logo="https://imgur.com/XRIrle0.png" group-title="BOLLYWOOD",IN: BboPlay
 https://cutt.ly/Fcn-BboPlay
 
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ldXaLJK.png" group-title="BOLLYWOOD",IN:Zee Cinema
-https://cutt.ly/Tv-ZCinema
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/GCibH6l.jpg" group-title="ENTERTAINMENT",IN: UTSAV Plus HD
-https://cutt.ly/fcn-StarPlus
-#EXTINF:-1 tvg-logo="https://imgur.com/ZgBsnkO.png" group-title="ENTERTAINMENT",IN: Star BharatHD
-https://cutt.ly/fcn-StarBharat
-#EXTINF:-1 tvg-logo="https://imgur.com/Kb3A6Ke.png" group-title="ENTERTAINMENT",IN: SonyWah
-https://cutt.ly/fcn-SonyWah
+#EXTINF:-1 tvg-logo="https://imgur.com/sVK7liT.png" group-title="BENGALI",IN: ZeeBangla HD
+https://cutt.ly/Tv-Zeeban
+#EXTINF:-1 tvg-logo="https://imgur.com/l10dPx4.png" group-title="BENGALI",IN: Star Jalsha HD
+https://cutt.ly/Tv-Starjlsa
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vas2kJR.png" group-title="BOLLYWOOD",IN: Zee Cinema HD
@@ -136,11 +109,13 @@ https://cutt.ly/Tv-ZCinema
 https://cutt.ly/Tv-Cineplex
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/sVK7liT.png" group-title="BENGALI",IN: ZeeBangla HD
-https://cutt.ly/Tv-Zeeban
-#EXTINF:-1 tvg-logo="https://imgur.com/l10dPx4.png" group-title="BENGALI",IN: Star Jalsha HD
-https://cutt.ly/Tv-Starjlsa
 
+#EXTINF:-1 tvg-logo="https://imgur.com/GCibH6l.jpg" group-title="ENTERTAINMENT",IN: UTSAV Plus HD
+https://cutt.ly/fcn-StarPlus
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgBsnkO.png" group-title="ENTERTAINMENT",IN: Star BharatHD
+https://cutt.ly/fcn-StarBharat
+#EXTINF:-1 tvg-logo="https://imgur.com/Kb3A6Ke.png" group-title="ENTERTAINMENT",IN: SonyWah
+https://cutt.ly/fcn-SonyWah
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IPfbroP.png" group-title="AVA-IPTV", COLORS HD
 https://cutt.ly/fcn-Colorshd
@@ -191,4 +166,5 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KybFgbZ.png" group-title="Hindi Music",Pop Pataka Music
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+
 
